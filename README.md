@@ -33,12 +33,11 @@ This project focuses on developing a machine learning pipeline to predict credit
 - Standardized numerical features with `StandardScaler`.
 
 ### 🤖 5. Modeling
-Trained and evaluated five classification models:
+Trained and evaluated 4 classification models:
 - Logistic Regression
 - Decision Tree
 - Random Forest
 - XGBoost (Gradient Boosting)
-- K-Nearest Neighbors (KNN)
 
 ### 📊 6. Model Evaluation
 Each model was evaluated using:
