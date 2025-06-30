@@ -56,7 +56,7 @@ Each model was evaluated using:
 ---
 
 ## ✅ Conclusion
-From the five classification models trained and evaluated, **XGBoost** achieved the highest performance. It successfully minimized misclassification, especially in detecting **high-risk borrowers**, making it the most reliable model for credit risk prediction in this project.
+From the four classification models trained and evaluated, **XGBoost** achieved the highest performance. It successfully minimized misclassification, especially in detecting **high-risk borrowers**, making it the most reliable model for credit risk prediction in this project.
 
 ---
 
